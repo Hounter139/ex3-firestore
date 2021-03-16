@@ -5,13 +5,6 @@ import 'firebase/firestore';
 // Ajouter votre objet de configuration Firebase
 const firebaseConfig = {
 
-    apiKey: "AIzaSyB-GGVMcqSDfNifrnI8kNpg5TSOeeC19Uo",
-    authDomain: "pvt-ext3.firebaseapp.com",
-    projectId: "pvt-ext3",
-    storageBucket: "pvt-ext3.appspot.com",
-    messagingSenderId: "998601961722",
-    appId: "1:998601961722:web:c1733031f7568333711943",
-    measurementId: "G-V9G9YYLHJW"
  
 };
 
